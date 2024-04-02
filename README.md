@@ -1,4 +1,4 @@
-check my linkedin post for a full explanation : https://www.linkedin.com/pulse/compression-techniques-action-implementing-efficient-solution-ashkar-jyfhe/
+check my article for a full explanation : https://www.linkedin.com/pulse/compression-techniques-action-implementing-efficient-solution-ashkar-jyfhe/
 
 With 8 bits, we can represent 256 different characters! That's plenty for the English alphabet, numbers and symbols.
 Each character is represented by a unique combination of 8 bits, which can be either 0 or 1. But why 8 bits?
